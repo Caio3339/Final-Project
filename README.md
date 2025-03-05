@@ -1,5 +1,5 @@
 # Personalized Workout & Calorie Burn Tracker
-## Video: 
+## Video: https://youtu.be/So_vvEXE8FA 
 
 The **Personalized Workout & Calorie Burn Tracker** is a Python-based Streamlit application designed to help users optimize their fitness goals by calculating their Basal Metabolic Rate (BMR), estimating calories burned from various activities, and providing tailored workout plans. The project leverages **Streamlit** for an interactive user interface and **Matplotlib** for data visualization.
 
